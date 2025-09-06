@@ -1,4 +1,4 @@
-package supermercado;
+package unq.po2.tp4.supermercado;
 
 public class ProductoPrimeraNecesidad extends Producto{
 

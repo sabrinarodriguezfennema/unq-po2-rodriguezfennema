@@ -1,4 +1,4 @@
-package supermercado;
+package unq.po2.tp4.supermercado;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,7 +9,7 @@ public class Supermercado {
 	private String direccion;
 	private List <Producto> productos;
 	
-	Supermercado (String nombre, String direccion) {
+	public Supermercado (String nombre, String direccion) {
 		this.nombre = nombre;
 		this.direccion = direccion;
 		this.productos = new ArrayList<>();

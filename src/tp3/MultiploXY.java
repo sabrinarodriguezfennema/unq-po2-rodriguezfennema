@@ -1,4 +1,4 @@
-package unq.po2.tp3;
+package tp3;
 
 public class MultiploXY {
 

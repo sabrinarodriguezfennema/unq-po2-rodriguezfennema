@@ -1,4 +1,4 @@
-package unq.po2.tp3.test;
+package tp3.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 import org.junit.jupiter.api.Test;
 
-import unq.po2.tp3.ContadorDeDigitos;
+import tp3.ContadorDeDigitos;
 
 class ContadorDeDigitosTestCase {
 	

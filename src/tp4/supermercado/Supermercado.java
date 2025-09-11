@@ -1,4 +1,4 @@
-package unq.po2.tp4.supermercado;
+package tp4.supermercado;
 import java.util.ArrayList;
 import java.util.List;
 

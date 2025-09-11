@@ -1,10 +1,10 @@
-package unq.po2.tp4.supermercado.test;
+package tp4.supermercado.test;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import unq.po2.tp4.supermercado.Producto;
-import unq.po2.tp4.supermercado.Supermercado;
+import tp4.supermercado.Producto;
+import tp4.supermercado.Supermercado;
 
 import static org.junit.jupiter.api.Assertions.*;
 

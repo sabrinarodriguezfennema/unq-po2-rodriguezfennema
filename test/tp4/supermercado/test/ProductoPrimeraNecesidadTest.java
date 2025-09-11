@@ -1,9 +1,9 @@
-package unq.po2.tp4.supermercado.test;
+package tp4.supermercado.test;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import unq.po2.tp4.supermercado.ProductoPrimeraNecesidad;
+import tp4.supermercado.ProductoPrimeraNecesidad;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -13,7 +13,7 @@ public class ProductoPrimeraNecesidadTest {
 	
 	@BeforeEach
 	public void setUp() {
-		leche = new ProductoPrimeraNecesidad("Leche", 8d, false);
+		leche = new ProductoPrimeraNecesidad("Leche", 8.0d, false);
 	}
 	
 	@Test
